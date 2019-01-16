@@ -1,0 +1,220 @@
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018829
+        nsecs: 504093885
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 0.0
+        y: 0.0
+        z: 0.0
+      rotation: 
+        x: 0.0214579208284
+        y: -0.00383218876002
+        z: -0.235192988338
+        w: 0.971704240085
+
+R:
+[  0.8893391,  0.4569116, -0.0175410;
+  -0.4572405,  0.8884476, -0.0398989;
+  -0.0026460,  0.0435041,  0.9990497 ]
+
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018829
+        nsecs: 604234933
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 0.485498905415
+        y: -0.257592960726
+        z: 0.01055908203
+      rotation: 
+        x: 0.0219483225357
+        y: -0.00392914663304
+        z: -0.234879901546
+        w: 0.971768627192
+
+R:
+[  0.8896320,  0.4563254, -0.0179469;
+  -0.4566703,  0.8886994, -0.0408116;
+  -0.0026740,  0.0445031,  0.9990057 ]
+
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018829
+        nsecs: 714176893
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 1.00993383315
+        y: -0.536484665703
+        z: 0.02787780762
+      rotation: 
+        x: 0.0220793846199
+        y: -0.00424286591786
+        z: -0.234536297151
+        w: 0.971847325552
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018829
+        nsecs: 814152956
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 1.48020246055
+        y: -0.784643836319
+        z: 0.03181457519
+      rotation: 
+        x: 0.0216935426552
+        y: -0.00489093829465
+        z: -0.234158107275
+        w: 0.971944159778
+
+R:
+[  0.8902921,  0.4549650, -0.0196669;
+  -0.4553894,  0.8893988, -0.0398793;
+  -0.0006520,  0.0444603,  0.9990109 ]
+
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018829
+        nsecs: 924092054
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 1.9895420156
+        y: -1.05291307764
+        z: 0.03057861328
+      rotation: 
+        x: 0.0218361319737
+        y: -0.00522530869356
+        z: -0.233793300212
+        w: 0.97202704297
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018830
+        nsecs:  24169921
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 2.44523834519
+        y: -1.29148149444
+        z: 0.03175354004
+      rotation: 
+        x: 0.0222766925305
+        y: -0.00552283869083
+        z: -0.233481609199
+        w: 0.972090317506
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018830
+        nsecs: 124315977
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 2.8931489354
+        y: -1.52698493749
+        z: 0.03643798828
+      rotation: 
+
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018830
+        nsecs: 234203100
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 3.37751813466
+        y: -1.77770552598
+        z: 0.04203796387
+      rotation: 
+        x: 0.0233008305406
+        y: -0.00487165784474
+        z: -0.232757256619
+        w: 0.972243486858
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018830
+        nsecs: 334193944
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 3.80906833848
+        y: -1.99817247642
+        z: 0.04873657226
+      rotation: 
+        x: 0.023206068443
+        y: -0.00378619832209
+        z: -0.232539496013
+        w: 0.972302692521
+---
+transforms: 
+  - 
+    header: 
+      seq: 0
+      stamp: 
+        secs: 1317018830
+        nsecs: 434221982
+      frame_id: "world"
+    child_frame_id: "base_link"
+    transform: 
+      translation: 
+        x: 4.22988642706
+        y: -2.20764172683
+        z: 0.05972290039
+      rotation: 
+        x: 0.023237872764
+        y: -0.00328955544074
+        z: -0.232298769553
+        w: 0.972361281499
+
+R:
+[  0.8920529,  0.4516038, -0.0171935;
+  -0.4519095,  0.8909945, -0.0436629;
+  -0.0043990,  0.0467195,  0.9988984 ]
+
