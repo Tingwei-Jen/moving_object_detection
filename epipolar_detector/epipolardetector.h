@@ -15,8 +15,4 @@ public:
 	void distPoint2Line(std::vector<cv::Point2f> pnts, std::vector<cv::Point3f> lines, std::vector<double>& dists);
 };
 
-
-
-
-
 #endif //EPIPOLARDETECTOR_H
